@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HaaniTharak
+- 👀 I’m interested in Programming and working on cool projects
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 💞️ I’m looking to collaborate on Exciting Projects
+- 📫 How to reach me https://www.linkedin.com/in/haani-tharak/ 
